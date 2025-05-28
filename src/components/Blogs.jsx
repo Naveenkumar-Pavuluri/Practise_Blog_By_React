@@ -1,5 +1,7 @@
 const Blogs = () => {
+      name = "naveen";
   return (
+  
     <>
       <div className="mx-10 text-center">
         <div className="py-6">
